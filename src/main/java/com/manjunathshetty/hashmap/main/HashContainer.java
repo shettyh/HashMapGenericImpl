@@ -6,7 +6,6 @@ public class HashContainer<K,V>{
 	V Value;
 	
 	public HashContainer(K key,V value) {
-		// TODO Auto-generated constructor stub
 		this.Key=key;
 		this.Value=value;
 	}
